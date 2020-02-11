@@ -1,5 +1,3 @@
-# Useful Links
-
 ## Technical
 
 
