@@ -7,7 +7,12 @@
 - [OnShape](www.onshape.com) - web-based more professional style 3D modeling software.
 - [Tinkercad](https://www.tinkercad.com/) - web-based simple 3D modeling software, great for kids. Also has tools for modeling electronics and designing code. (by Autodesk) 
 
-## Coding/Software
+## Graphics
+- [Inkscape](https://inkscape.org/) - free and open-source vector graphics editor
+   - [Corel Draw](https://www.coreldraw.com/) - also nice vector graphics editor but not free (I've used this mostly in conjunction with laser cutters.)
+   - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - also nice vector graphics editor but monthly cost
+
+## Coding/Software Development
 Python related
 - [Anaconda](https://www.anaconda.com/) - easy way to install python and manage libraries
    - [Jupyter Notebook](https://jupyter.org/) - my prefered tool to look through and analyze large datasets
