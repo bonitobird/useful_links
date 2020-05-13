@@ -25,7 +25,7 @@ Python related
 - [Python Anywhere](https://pythonanywhere.com/) - host for deploying simple python web apps for free (qty 1, less than 512 MB)
 
 ## Misc. Useful
-- http://copypastecharacter.com/
+- [Copy Paste Special Characters](http://copypastecharacter.com/)
 - [Simple Timer](http://e.ggtimer.com/10min)
 
 ## Fun
