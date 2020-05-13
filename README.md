@@ -24,10 +24,13 @@ Python related
    - [Flask](https://flask.palletsprojects.com/) --> a web framework for Python 
 - [Python Anywhere](https://pythonanywhere.com/) - host for deploying simple python web apps for free (qty 1, less than 512 MB)
 
-## Fun
-- [How much sunlight is left in the day?](https://sunshine.fyi/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
-
 ## Misc. Useful
 - http://copypastecharacter.com/
 - [Simple Timer](http://e.ggtimer.com/10min)
-   
+
+## Fun
+- [How much sunlight is left in the day?](https://sunshine.fyi/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
+- Live cameras
+   - [Explore.org](https://explore.org/livecams) - the eagles in Iowa, bears in Alaska, and great danes in New England are amongst my favorites
+   - [Eagles in National Arboretum](https://naeaglecam.org/)
+   - [Fort Pierce Jetty](https://visitstlucie.com/fort-pierce-inlet-webcam/)
