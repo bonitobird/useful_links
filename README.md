@@ -27,6 +27,7 @@ Python related
 ## Misc. Useful
 - [Copy Paste Special Characters](http://copypastecharacter.com/)
 - [Simple Timer](http://e.ggtimer.com/10min)
+- [What week is it?](http://whatweekisit.org/)
 
 ## Fun
 - [How much sunlight is left in the day?](https://sunshine.fyi/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
