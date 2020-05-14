@@ -48,6 +48,11 @@
 - [Lego Mindstorms and more](https://education.lego.com/) - my first introduction to coding was getting a little lego robot to turn
 - [Tinkercad](https://www.tinkercad.com/) - web-based simple 3D modeling software, great for kids. Also has tools for modeling electronics and designing code. (by Autodesk) 
 
+## Note taking and list making
+- [OneNote](https://www.onenote.com/) - digital notebooks - organize recipes, notes for online classes, research on various topics of interest, etc
+- [Google Keep](https://keep.google.com) - lists - can share with others and can set location based reminders to check lists 
+- [TeuxDeux](https://teuxdeux.com/) - simple to do list ($/month) 
+
 ## Misc. Useful
 - [Copy Paste Special Characters](http://copypastecharacter.com/)
 - [Simple Timer](http://e.ggtimer.com/10min)
