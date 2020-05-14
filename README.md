@@ -3,14 +3,23 @@
 - [WolframAlpha](https://www.wolframalpha.com/) - a little bit of everything you could ever want from a calculator and more
 - [ZunZun](www.zunzun.com) - curve fitting
 
-## 3D CAD
+## Mechanical 
+#### 3D CAD
 - [OnShape](www.onshape.com) - web-based more professional style 3D modeling software.
 - [Tinkercad](https://www.tinkercad.com/) - web-based simple 3D modeling software, great for kids. Also has tools for modeling electronics and designing code. (by Autodesk) 
+#### Manufactoring
+- [Laser cutter]
+- [3D Printing]
+- [GCode Viewer](http://gcode.ws/#) - helps analyze and visualise GCode (used by CNC machines aka computer controller machining)
 
 ## Graphics
+#### Vector
 - [Inkscape](https://inkscape.org/) - free and open-source vector graphics editor
    - [Corel Draw](https://www.coreldraw.com/) - also nice vector graphics editor but not free (I've used this mostly in conjunction with laser cutters.)
    - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - also nice vector graphics editor but monthly cost
+#### Raster (aka photos and more)
+- [Photoshop Lightroom]
+- [Photoshop]
 
 ## Coding/Software Development
 #### Python related
