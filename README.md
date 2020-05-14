@@ -1,9 +1,3 @@
----
-title: Useful Links
-description: just a simple list of useful things I've found on the interwebs
----
-
-
 # Table of Contents
 1. [Math](#math)
 2. [Mechanical](#mechanical)
