@@ -2,7 +2,7 @@
 
 1. [Math](#math)
 2. [Mechanical](#mechanical)
-3. [Graphics](#graphics)
+3. [Graphics/Images](#graphics)
 4. [Coding/Software Development](#codingsoftware-development)
 5. [Note taking and list making](#note-taking-and-list-making)
 6. [Misc. Useful](#misc-useful)
@@ -27,18 +27,19 @@
 - [3D Printing]
 - [GCode Viewer](http://gcode.ws/#) - helps analyze and visualise GCode (used by CNC machines aka computer controller machining)
 
-## Graphics
+## Graphics/Images
   
 ### Vector
 
 - [Inkscape](https://inkscape.org/) - free and open-source vector graphics editor
-  - [Corel Draw](https://www.coreldraw.com/) - also nice vector graphics editor but not free (I've used this mostly in conjunction with laser cutters.)
-  - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - also nice vector graphics editor but monthly cost
+- [Corel Draw](https://www.coreldraw.com/) - also nice vector graphics editor ($) (I've used this mostly in conjunction with laser cutters.)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - also nice vector graphics editor ($/month)
   
 ### Raster (aka photos and more)
 
-- [Photoshop Lightroom]
-- [Photoshop]
+- [Gimp](https://www.gimp.org/) - free and open-source raster image editor
+- [Photoshop Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) - nice software specifically for photo oraganization and editing ($/month)
+- [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=PC1PQQ5T&mv=other) - THE software for manipulating raster images ($/month)
 
 ## Coding/Software Development
   
