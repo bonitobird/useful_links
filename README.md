@@ -1,3 +1,13 @@
+# Table of Contents
+1. [Math](#math)
+2. [Mechanical](#mechanical)
+3. [Graphics](#graphics)
+4. [Coding/Software Development](#codingsoftware-development)
+5. [Note taking and list making](#note-taking-and-list-making)
+6. [Misc. Useful](#misc-useful)
+7. [Fun](#fun)
+
+
 ## Math
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
 - [WolframAlpha](https://www.wolframalpha.com/) - a little bit of everything you could ever want from a calculator and more
