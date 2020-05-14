@@ -13,7 +13,7 @@
    - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - also nice vector graphics editor but monthly cost
 
 ## Coding/Software Development
-Python related
+#### Python related
 - [Anaconda](https://www.anaconda.com/) - easy way to install python and manage libraries
    - [Jupyter Notebook](https://jupyter.org/) - my prefered tool to look through and analyze large datasets
    - [Jupyter Lab](https://jupyter.org/) - the next step up from a single pure Jupyter notebook
@@ -28,6 +28,10 @@ Python related
    - [Matplotlib](https://matplotlib.org/) --> for plotting said data
    - [Flask](https://flask.palletsprojects.com/) --> a web framework for Python 
 - [Python Anywhere](https://pythonanywhere.com/) - host for deploying simple python web apps for free (qty 1, less than 512 MB)
+#### For kids
+- [Scratch](https://scratch.mit.edu/) - original "coding for kids" tool created. Was the basis for the original Lego Mindstorms GUI.
+- [Lego Mindstorms and more](https://education.lego.com/) - my first introduction to coding was getting a little lego robot to turn
+- [Tinkercad](https://www.tinkercad.com/) - web-based simple 3D modeling software, great for kids. Also has tools for modeling electronics and designing code. (by Autodesk) 
 
 ## Misc. Useful
 - [Copy Paste Special Characters](http://copypastecharacter.com/)
