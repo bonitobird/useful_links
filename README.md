@@ -92,10 +92,10 @@
   - [Eagles in National Arboretum](https://naeaglecam.org/)
   - [Fort Pierce Jetty](https://visitstlucie.com/fort-pierce-inlet-webcam/)
 
-## Hardware
+## Hardware*
 
 - Canning
   - [Presto Precise Digital Pressure Canner](https://amzn.to/3w6TnQz)
 
-Affiliate Disclosure:
+\*Affiliate Disclosure:
 Bonitobird is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
