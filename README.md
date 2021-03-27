@@ -7,6 +7,7 @@
 5. [Note taking and list making](#note-taking-and-list-making)
 6. [Misc. Useful](#misc-useful)
 7. [Fun](#fun)
+8. [Hardware](#hardware)
 
 ## Math
 
@@ -40,6 +41,7 @@
 - [Gimp](https://www.gimp.org/) - free and open-source raster image editor
 - [Photoshop Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) - nice software specifically for photo oraganization and editing ($/month)
 - [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=PC1PQQ5T&mv=other) - THE software for manipulating raster images ($/month)
+- [Autodesk Sketchbook](https://www.autodesk.com/products/sketchbook-pro) - Use this with my drawing tablet for sketching
 
 ## Coding/Software Development
   
@@ -89,3 +91,11 @@
   - [Explore.org](https://explore.org/livecams) - the eagles in Iowa, bears in Alaska, and great danes in New England are amongst my favorites
   - [Eagles in National Arboretum](https://naeaglecam.org/)
   - [Fort Pierce Jetty](https://visitstlucie.com/fort-pierce-inlet-webcam/)
+
+## Hardware
+
+- Canning
+  - [Presto Precise Digital Pressure Canner](https://amzn.to/3w6TnQz)
+
+Affiliate Disclosure:
+Bonitobird is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
