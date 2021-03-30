@@ -11,8 +11,7 @@
 9. [Hardware](#hardware)
 
 ## Amazon Affiliate Link*
-- [Amazon Homepage](https://amzn.to/2PFZz1x) - If you do any of you Amazon shopping from this link, you will be helping me out.
-- [Duplicate page](AMAZON_AFFILIATE_LINK.MD)
+- [Amazon Affiliate Link](AMAZON_AFFILIATE_LINK.MD) - If you do any of you Amazon shopping from this link, you will be helping me out.
 
 ## Math
 
