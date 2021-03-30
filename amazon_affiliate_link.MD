@@ -1,5 +1,5 @@
 # Amazon Affiliate Links
-- [Amazon Home Page](https://amzn.to/3rBGXgi)
+- [Amazon Home Page](https://amzn.to/31ypNWk)
 
 
 \*Affiliate Disclosure:
