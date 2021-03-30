@@ -96,6 +96,8 @@
 
 - Canning
   - [Presto Precise Digital Pressure Canner](https://amzn.to/3w6TnQz)
+- [Amazon Homepage](https://amzn.to/2PFZz1x) - If you do any of you Amazon shopping from this link, you will be helping me out.
+
 
 \*Affiliate Disclosure:
 Bonitobird is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
