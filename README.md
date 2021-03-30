@@ -11,7 +11,7 @@
 9. [Hardware](#hardware)
 
 ## Amazon Affiliate Link*
-- [Amazon Affiliate Link](AMAZON_AFFILIATE_LINK.MD) - If you do any of you Amazon shopping from this link, you will be helping me out.
+- [Amazon Affiliate Link](amazon_affiliate_link.MD) - If you do any of you Amazon shopping from this link, you will be helping me out.
 
 ## Math
 
