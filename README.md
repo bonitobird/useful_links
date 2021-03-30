@@ -12,6 +12,7 @@
 
 ## Amazon Affiliate Link*
 - [Amazon Homepage](https://amzn.to/2PFZz1x) - If you do any of you Amazon shopping from this link, you will be helping me out.
+- [Duplicate page](AMAZON_AFFILIATE_LINK.MD)
 
 ## Math
 
