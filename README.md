@@ -1,13 +1,17 @@
 # Table of Contents
 
-1. [Math](#math)
-2. [Mechanical](#mechanical)
-3. [Graphics/Images](#graphics)
-4. [Coding/Software Development](#codingsoftware-development)
-5. [Note taking and list making](#note-taking-and-list-making)
-6. [Misc. Useful](#misc-useful)
-7. [Fun](#fun)
-8. [Hardware](#hardware)
+1. [Amazon Affiliate Link](#amazon-affiliate-link)
+2. [Math](#math)
+3. [Mechanical](#mechanical)
+4. [Graphics/Images](#graphicsimages)
+5. [Coding/Software Development](#codingsoftware-development)
+6. [Note taking and list making](#note-taking-and-list-making)
+7. [Misc. Useful](#misc-useful)
+8. [Fun](#fun)
+9. [Hardware](#hardware)
+
+## Amazon Affiliate Link*
+- [Amazon Homepage](https://amzn.to/2PFZz1x) - If you do any of you Amazon shopping from this link, you will be helping me out.
 
 ## Math
 
@@ -97,7 +101,9 @@
 
 - Canning
   - [Presto Precise Digital Pressure Canner](https://amzn.to/3w6TnQz)
-- [Amazon Homepage](https://amzn.to/2PFZz1x) - If you do any of you Amazon shopping from this link, you will be helping me out.
+- 3D Printing
+  - [FlashForge Adventurer 3 Lite](https://amzn.to/31vJUVd)
+  - [FlashForge Adventurer 3](https://amzn.to/31uwZTi)
 
 
 \*Affiliate Disclosure:
