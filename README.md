@@ -18,6 +18,7 @@
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
 - [WolframAlpha](https://www.wolframalpha.com/) - a little bit of everything you could ever want from a calculator and more
 - [ZunZun](www.zunzun.com) - curve fitting
+-   This site comes and goes. As of 6/2021, it is down, but you can use [FindCurves](www.findcurves.com).
 
 ## Mechanical
   
@@ -25,6 +26,7 @@
 
 - [OnShape](www.onshape.com) - web-based more professional style 3D modeling software.
 - [Tinkercad](https://www.tinkercad.com/) - web-based simple 3D modeling software, great for kids. Also has tools for modeling electronics and designing code. (by Autodesk)
+- [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
   
 ### Manufacturing
 
