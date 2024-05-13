@@ -1,17 +1,14 @@
 # Table of Contents
 
-1. [Amazon Affiliate Link](#amazon-affiliate-link)
-2. [Math](#math)
-3. [Mechanical](#mechanical)
-4. [Graphics/Images](#graphicsimages)
-5. [Coding/Software Development](#codingsoftware-development)
-6. [Note taking and list making](#note-taking-and-list-making)
-7. [Misc. Useful](#misc-useful)
-8. [Fun](#fun)
-9. [Hardware](#hardware)
+1. [Math](#math)
+2. [Mechanical](#mechanical)
+3. [Graphics/Images](#graphicsimages)
+4. [Coding/Software Development](#codingsoftware-development)
+5. [Note taking and list making](#note-taking-and-list-making)
+6. [Misc. Useful](#misc-useful)
+7. [Fun](#fun)
+8. [Hardware](#hardware)
 
-## Amazon Affiliate Link*
-- [Amazon Affiliate Link](amazon_affiliate_link.MD) - If you do any of your Amazon shopping from this link, you will be helping me out.
 
 ## Math
 
